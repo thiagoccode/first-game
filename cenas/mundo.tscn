@@ -1,10 +1,11 @@
-[gd_scene load_steps=8 format=4 uid="uid://c01unuv41id1r"]
+[gd_scene load_steps=9 format=4 uid="uid://c01unuv41id1r"]
 
 [ext_resource type="Texture2D" uid="uid://blq8jd5jejs6r" path="res://Art Assets/Art Assets/Background/Sky.png" id="1_hbp8a"]
 [ext_resource type="Texture2D" uid="uid://c8k7xcv2eu17w" path="res://Art Assets/Art Assets/Tiles/Tiles (16x16).png" id="2_hnnuc"]
-[ext_resource type="PackedScene" uid="uid://obwms6t6dogm" path="res://cenas/player.tscn" id="3_rdm2e"]
-[ext_resource type="PackedScene" uid="uid://ca1v3qobljvf0" path="res://cenas/espinhos.tscn" id="4_hnnuc"]
-[ext_resource type="PackedScene" uid="uid://du1plwaf7kpkj" path="res://cenas/patinha.tscn" id="5_rdm2e"]
+[ext_resource type="PackedScene" uid="uid://obwms6t6dogm" path="res://Art Assets/Art Assets/cenas/player.tscn" id="3_rdm2e"]
+[ext_resource type="PackedScene" uid="uid://ca1v3qobljvf0" path="res://Art Assets/Art Assets/cenas/espinhos.tscn" id="4_hnnuc"]
+[ext_resource type="PackedScene" uid="uid://du1plwaf7kpkj" path="res://Art Assets/Art Assets/cenas/patinha.tscn" id="5_rdm2e"]
+[ext_resource type="PackedScene" uid="uid://h4veeytnfirl" path="res://Art Assets/Art Assets/cenas/fim.tscn" id="6_v72qm"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_tqoxo"]
 texture = ExtResource("2_hnnuc")
@@ -106,3 +107,5 @@ position = Vector2(825, 408)
 
 [node name="Patinha" parent="." instance=ExtResource("5_rdm2e")]
 position = Vector2(1120, 398)
+
+[node name="fim" parent="." instance=ExtResource("6_v72qm")]
