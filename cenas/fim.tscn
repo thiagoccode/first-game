@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://h4veeytnfirl"]
+
+[node name="fim" type="Node2D"]
+
+[node name="ColorRect" type="ColorRect" parent="."]
+offset_right = 1152.0
+offset_bottom = 648.0
+color = Color(0, 0, 0, 1)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 224.0
+offset_top = 136.0
+offset_right = 928.0
+offset_bottom = 178.0
+theme_override_font_sizes/font_size = 30
+text = "Primeiro contato com desenvolvimento de jogos"
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 352.0
+offset_top = 256.0
+offset_right = 808.0
+offset_bottom = 325.0
+theme_override_font_sizes/font_size = 50
+text = "Por Thiago Cristian"
+
+[node name="Label3" type="Label" parent="."]
+offset_left = 376.0
+offset_top = 472.0
+offset_right = 775.0
+offset_bottom = 507.0
+theme_override_font_sizes/font_size = 25
+text = "GitHub - github.com/thiagoccode"
