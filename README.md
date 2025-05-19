@@ -13,6 +13,18 @@ Veja abaixo uma imagem do teste em funcionamento:
 
 ---
 
+## Jogue agora
+
+[▶️ Jogue aqui](https://thiagoccode.github.io/first-game/)
+
+### Controles
+
+- **Setas esquerda e direita**: movimentam o personagem  
+- **Seta para cima**: pula  
+- **Espaço**: alternativa para pular  
+- **Teclas A e D**: alternativa para mover esquerda e direita
+
+
 ## 🎮 Sobre o Projeto
 
 > Você controla um patinho que precisa chegar até a patinha.  
