@@ -1,4 +1,4 @@
-# 🐤 Lemon Boy - Meu Primeiro "Jogo" com Godot
+# Meu Primeiro Jogo com Godot
 
 Este projeto é um **teste simples** feito durante meus primeiros passos com a engine [Godot](https://godotengine.org/). Também tive ajuda com uma vídeo aula no youtube. 
 Na verdade, trata-se mais de uma **prática técnica** do que de um jogo completo.
