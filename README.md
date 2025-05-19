@@ -32,7 +32,7 @@ Esse projeto **não será evoluído**. Ele serve unicamente como **exercício de
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Godot Engine** (v4.1.1)
+- **Godot Engine** (v4.4.1)
 - **GDScript**
 - **Pixel Art** (testes com [LibreSprite](https://libresprite.github.io/))
 
